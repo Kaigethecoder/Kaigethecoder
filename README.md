@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaigethecoder
 - 👀 I’m interested in learning all languages
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on projects in the future
+- 🌱 I’m currently learning C# at Grand Circus
+- 💞️ I’m looking to grow my career as a Software Developer while helping others.
 - 📫 How to reach me: millerkaige@gmail.com
 
 <!---
